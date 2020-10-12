@@ -4,12 +4,27 @@
 
 My world is a finite terraformer program created with CSFML library (in C). It's a software that allows you to edit and create a world on an arbitrary-sized map in "god mode", with plenty of feature. It aims to show the capabilites of CSFML lib (an adaptation of SFML in C) and a lot of mathematical "cool" effects !
 
+## Demonstration
+(some gif might freeze during the animations, it is not the case on the real program)
+
 ![](https://github.com/chetrit/my-world/blob/master/ressources/highlight/basic-editing.gif)
+
+
 ![](https://github.com/chetrit/my-world/blob/master/ressources/highlight/tools.gif)
+
+
 ![](https://github.com/chetrit/my-world/blob/master/ressources/highlight/menu.gif)
+
+
 ![](https://github.com/chetrit/my-world/blob/master/ressources/highlight/colors.gif)
+
+
 ![](https://github.com/chetrit/my-world/blob/master/ressources/highlight/rectangular_map.png)
+
+
 ![](https://github.com/chetrit/my-world/blob/master/ressources/highlight/3dshape.png)
+
+
 ![](https://github.com/chetrit/my-world/blob/master/ressources/highlight/animations.gif)
 
 # Installation and compilation
