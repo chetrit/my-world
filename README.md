@@ -9,7 +9,7 @@ My world is a finite terraformer program created with CSFML library (in C). It's
 ![](.github/ressources/highlight/menu.gif)
 ![](.github/ressources/highlight/colors.gif)
 ![](.github/ressources/highlight/rectangular_map.png)
-![](.github/ressources/highlight/3dshape.png)
+![](https://github.com/chetrit/my-world/blob/master/ressources/highlight/3dshape.png)
 ![](.github/ressources/highlight/animations.gif)
 
 # Installation and compilation
