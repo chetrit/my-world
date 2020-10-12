@@ -33,7 +33,7 @@ USAGE
 
 OPTIONS
     -h print the usage and quit.
-    ```
+```
 
 Check ``map_example`` file for an example of the format for the map to convert (doing a ``./my_world --conver map_example``).
 
